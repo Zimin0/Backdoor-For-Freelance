@@ -1,7 +1,7 @@
 import requests
 import base64
 
-PASSWORD = "HG44g90P" # пароль, который проверяется скриптом main.php
+PASSWORD = "HG44g90&L;22!636#633^^#^2!P" # пароль, который проверяется скриптом main.php
 
 first_path = "http://path-to-main.php" 
 
